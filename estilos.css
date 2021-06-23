@@ -42,7 +42,6 @@ body{
 
 .hero{
     width: 100%;
-    min-width: 100vh;
     background: #536976;  
     /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #292E49, #536976);  
